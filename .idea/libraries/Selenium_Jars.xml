@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Selenium Jars">
+    <CLASSES>
+      <root url="jar://E:/Selenium Jars/gherkin.jar!/" />
+      <root url="file://E:/Selenium Jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/Selenium Jars" />
+    </SOURCES>
+    <jarDirectory url="file://E:/Selenium Jars" recursive="false" />
+    <jarDirectory url="file://E:/Selenium Jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
